@@ -1,0 +1,9 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    { "repo": "Bank-Management-System-using-MySQL", "description": "Bank management system in MySQL: account creation, transactions and customer records." },
+    { "repo": "Railway-Management-System", "description": "Database for trains, passengers and ticketing, built with DDL, DML and DQL queries." },
+    { "repo": "Smart-Watch-Templete", "description": "Responsive smartwatch landing page built with HTML5, CSS3 and Bootstrap 5." },
+    { "repo": "ML-Projects", "description": "Machine learning notebooks: data cleaning, EDA and models in Python." }
+  ]
+}

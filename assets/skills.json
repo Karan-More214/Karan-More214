@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Core Java / OOP",      "value": 82 },
+    { "label": "SQL / MySQL",          "value": 80 },
+    { "label": "Machine Learning",     "value": 68 },
+    { "label": "Python / Pandas",      "value": 72 },
+    { "label": "HTML / CSS / Bootstrap","value": 78 },
+    { "label": "DSA / Problem Solving","value": 70 },
+    { "label": "Git / GitHub",         "value": 75 }
+  ]
+}
