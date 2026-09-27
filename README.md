@@ -23,7 +23,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Karan-More214&style=flat&color=aa9bef&label=profile+views" alt="profile views">
+<a href="https://github.com/Karan-More214?tab=repositories"><img src="https://komarev.com/ghpvc/?username=Karan-More214&style=flat&color=aa9bef&label=profile+views" alt="profile views"></a>&nbsp;
+<a href="https://github.com/Karan-More214?tab=followers"><img src="https://img.shields.io/github/followers/Karan-More214?style=flat&color=aa9bef&label=followers&logo=github" alt="followers"></a>&nbsp;
+<a href="https://github.com/Karan-More214?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Karan-More214?affiliations=OWNER&style=flat&color=aa9bef&label=stars&logo=github" alt="stars"></a>
 
 </div>
 
